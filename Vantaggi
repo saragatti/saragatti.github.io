@@ -1,0 +1,39 @@
+html>
+<head>
+<link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+<title>Vantaggi</title>
+</head>
+<body style="background-color:orange">
+
+<h1><p class="text-center"><font color=black><strong><big>Vantaggi dell'E-book</big></h1></strong></font></p>
+<center><a href="http://saragatti.github.io/saragatti.github.io"><button type="button" class="btn btn-success">Home</button></a>
+<a href="http://saragatti.github.io/Cosa sono.html"><button type="button" class="btn btn-success">Cosa sono</button></a>
+<a href="http://saragatti.github.io/L'importanza.html"><button type="button" class="btn btn-success">L'importanza</button></a>
+<a href="http://saragatti.github.io/I giovani.html"><button type="button" class="btn btn-success">I giovani e i libri</button></a>
+<a href="http://saragatti.github.io/E-book.html"><button type="button" class="btn btn-success">E-book</button></a>
+</center>
+<br></br>
+<OL TYPE="1" START="1">
+<LI><font color="black">
+<b></b>
+</font>
+    </LI> 
+<LI><font color="black">
+<b></b>
+</font>
+    </LI> 
+<LI><font color="black">
+<b></b>
+</font>
+    </LI>
+<LI>font color="black">
+<b></b>
+</font>
+</LI>
+<LI><font color="black">
+<b></b>
+</font>
+</LI>
+</OL>
+</body>
+</html>
